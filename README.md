@@ -8,4 +8,7 @@ After ensuring our data was clean, we split it so that 75% would be used for tra
 
 # What is next
 
-To further enhance our model, we plan to incorporate data augmentation techniques to create a dataset that is more capable of handling variations in voice pitch and background noise. We also aim to explore advanced architectures such as Recurrent Neural Networks (RNNs) or Transformers, which may better capture temporal dependencies in voice data. Furthermore, we seek to expand the range of emotion classes to include more nuanced emotions like sarcasm, resulting in a more comprehensive emotion classification system.
+To further enhance our model, we plan to incorporate data augmentation techniques to create a dataset that is more capable of handling variations in voice pitch and background noise. We also aim to explore advanced architectures such as Recurrent Neural Networks (RNNs) or Transformers, which may better capture temporal dependencies in voice data. Furthermore, we seek to expand the range of emotion classes to include more nuanced emotions like sarcasm, resulting in a more comprehensive emotion classification system. Most importantly, we plan to develop it into a user-driven app that can allow people to record their voices, and it will classify their emotion, allowing the model to respond accordingly.
+
+# Tools used
+Jupyter, Librosa, Python, Tensorflow, Scikit-Learn
